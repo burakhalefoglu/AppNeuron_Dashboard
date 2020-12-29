@@ -35,7 +35,6 @@ function Message(id){
     else if(id=="ZorlukDadagilimi"){
         
         document.getElementById("messageid").innerHTML="id: ZorlukDadagilimi"
-
     }
     else if(id=="zorlukDonut"){
         
